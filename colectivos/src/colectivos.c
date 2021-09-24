@@ -27,9 +27,11 @@ int main(void) {
 	int recaudacion;
 
 
+
 	do{
 
         //LINEAS
+		printf("HOLA\n");
 		printf("Ingrese linea 1/2/3:");
 		scanf("%d",&linea);
 		while(linea<=0 || linea>3){
