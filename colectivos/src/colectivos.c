@@ -31,7 +31,7 @@ int main(void) {
 	do{
 
         //LINEAS
-		printf("HOLA\n");
+		printf("HOLA MUNDOOOOOOOOO\n");
 		printf("Ingrese linea 1/2/3:");
 		scanf("%d",&linea);
 		while(linea<=0 || linea>3){
